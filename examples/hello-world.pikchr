@@ -1,0 +1,4 @@
+# Copied on 2024-06-03 from
+#   https://fossil-scm.org/home/doc/tip/www/pikchr.md
+#
+arrow; box "Hello" "World!" fit; arrow
